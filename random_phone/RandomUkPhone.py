@@ -15,7 +15,7 @@ class RandomUkPhone():
         {"code": "0161", "min": 4960000, "max": 4960999}, #Manchester
         {"code": "202", "min": 79460000, "max": 79460999}, #London
         {"code": "0191", "min": 4980000, "max": 4980999}, #Tyneside/Durham/Sunderland
-        {"code": "028", "min": 96496000, "max": 94696999}, #Northern Ireland
+        {"code": "028", "min": 96496000, "max": 96496999}, #Northern Ireland
         {"code": "029", "min": 20180000, "max": 20180999}, #Cardiff
         {"code": "01632", "min": 960000, "max": 960999} #No area
     ]
