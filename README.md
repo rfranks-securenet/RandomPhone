@@ -1,5 +1,7 @@
 # RandomPhone
 
+![Build Status](https://api.travis-ci.com/rfranks-securenet/RandomPhone.svg?branch=main)
+
 ## Overview
 
 RandomPhone is a package for generating random phone numbers.
