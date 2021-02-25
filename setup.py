@@ -26,7 +26,7 @@ setup(
     license='LICENSE',
     description='A module to generate random phone numbers',
     long_description=open('README.md').read(),
-    long_description_content_type="text/markdown"
+    long_description_content_type="text/markdown",
     classifiers=[
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
