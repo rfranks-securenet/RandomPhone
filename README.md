@@ -21,13 +21,13 @@ RandomPhone can create landlines, mobiles, freephone, premium, and local rate nu
 ```
 from random_phone import RandomUkPhone
 
-rp = RandomUkPhone()
+rukp = RandomUkPhone()
 
-rp.random_landline()
-rp.random_mobile()
-rp.random_freephone()
-rp.random_premium()
-rp.random_ukwide()
+rukp.random_landline()
+rukp.random_mobile()
+rukp.random_freephone()
+rukp.random_premium()
+rukp.random_ukwide()
 
 ```
 
